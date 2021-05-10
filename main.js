@@ -23,4 +23,4 @@ client.on('message', message => {
     }
 })
 
-client.login('ODQxMTk5NDUzNTMxOTMwNjY1.YJjSCg.gCftaUn-cSjVBI39Ur8ef5rF-MA');
+client.login('no token for u');
